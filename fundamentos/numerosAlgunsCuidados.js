@@ -18,3 +18,9 @@ console.log((10.345).toFixed(2))
 
 // Retorna o valor com 7 algarismo (inclusive os decimais)
 console.log((1045.37422).toPrecision(7))
+
+// Concatena os valores em uma string (pelo contesto faz sentido somar string (concatenar))
+console.log('3' + 2)
+
+// retorna 1, transforma a string em number (pelo sentido do contesto)
+console.log('3' - 2)
