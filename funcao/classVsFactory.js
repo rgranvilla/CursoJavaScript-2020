@@ -19,3 +19,5 @@ const pessoa = nome => {
 
 const p2 = pessoa('João')
 p2.falar()
+
+// assistir ao vídeo para entender melhor
