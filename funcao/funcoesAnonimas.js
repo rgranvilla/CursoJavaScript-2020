@@ -18,7 +18,7 @@ const pessoa = {
   }
   // falar() {
     // console.log('Opa')
-  // } uma forma alternativa de escrever o código acima, prefira este.
+  // } uma forma alternativa de escrever o código acima, prefira este..
 }
 
 pessoa.falar()
